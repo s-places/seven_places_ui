@@ -1,0 +1,92 @@
+This project with great thanks for all authors (information about authors could be find in the sites linked in list below) uses following components with following licenses:
+
+react https://github.com/facebook/react/blob/master/LICENSE
+
+@nzambello/react-scrolltop https://github.com/nzambello/react-scrolltop/blob/master/LICENSE
+
+@testing-library/jest-dom
+https://github.com/testing-library/jest-dom/blob/main/LICENSE
+
+@testing-library/react https://github.com/testing-library/react-testing-library/blob/main/LICENSE
+
+@testing-library/user-event https://github.com/testing-library/user-event/blob/master/LICENSE
+
+axios https://github.com/axios/axios/blob/master/LICENSE
+
+Bootstrap https://github.com/twbs/bootstrap/blob/main/LICENSE
+
+react-bootstrap https://github.com/react-bootstrap/react-bootstrap/blob/master/LICENSE
+
+react-bootstrap-icons https://github.com/ismamz/react-bootstrap-icons/blob/master/LICENSE.md
+
+react-dom https://github.com/facebook/react/blob/master/LICENSE
+
+react-router-dom https://github.com/ReactTraining/react-router/blob/master/LICENSE
+
+react-scripts https://github.com/facebook/create-react-app/blob/master/LICENSE
+
+create-react-app https://github.com/facebook/create-react-app/blob/master/LICENSE
+
+react-scroll-to-top https://github.com/HermanNygaard/react-scroll-to-top/blob/master/LICENSE
+
+web-vitals https://github.com/GoogleChrome/web-vitals/blob/master/LICENSE
+
+@wojtekmaj/enzyme-adapter-react-17 https://github.com/wojtekmaj/enzyme-adapter-react-17/blob/master/LICENSE
+
+enzyme https://github.com/enzymejs/enzyme/blob/master/LICENSE.md
+
+enzyme-adapter-utils https://github.com/enzymejs/enzyme/blob/master/LICENSE.md
+
+enzyme-to-json https://github.com/adriantoine/enzyme-to-json/blob/master/LICENSE
+
+sass https://github.com/mikaspell/sass-site-rus/blob/rus-version/LICENSE
+
+jest https://github.com/facebook/jest/blob/master/LICENSE
+
+Roboto https://fonts.google.com/specimen/Roboto#license
+
+Open Sans https://fonts.google.com/specimen/Open+Sans#license
+
+react-scroll-to-element https://github.com/trembacz/react-scroll-to-element/blob/master/LICENSE
+
+Also great thanks for samples of docker's config to all authors which listed below and have source files under following licenses:
+
+wiamsuri/django-gunicorn-nginx-docker https://github.com/wiamsuri/django-gunicorn-nginx-docker/blob/master/LICENSE.txt
+
+balanpradeepkumar/docker_django_mongodb https://github.com/balanpradeepkumar/docker_django_mongodb/blob/master/LICENSE
+
+Text materials from Wikipedia licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA 3.0) https://creativecommons.org/licenses/by/3.0/deed.en:
+
+https://en.wikipedia.org/wiki/Sydney
+
+https://en.wikipedia.org/wiki/Tokyo
+
+https://en.wikipedia.org/wiki/Cairo
+
+https://en.wikipedia.org/wiki/Moscow
+
+https://en.wikipedia.org/wiki/Mexico_City
+
+https://en.wikipedia.org/wiki/S%C3%A3o_Paulo
+
+https://en.wikipedia.org/wiki/McMurdo_Station
+
+McMurdo station images  Alan Light (https://www.flickr.com/photos/alan_light/) licensed under Creative Commons Attribution 2.0 Generic license  (CC BY 2.0) https://creativecommons.org/licenses/by/2.0/
+
+Other images from Pixabay.com  under Pixabay License. https://pixabay.com/service/license/
+
+All content from this project summury licensed under Creative Commons Attribution-ShareAlike 3.0 Unported License (CC BY-SA 3.0)
+
+For deploying to Heroku was used this buildpacks under following lisences:
+
+mars/create-react-app-buildpack  https://github.com/mars/create-react-app-buildpack/blob/master/LICENSE
+
+heroku/heroku-buildpack-python  https://github.com/heroku/heroku-buildpack-python/blob/main/LICENSE
+
+docker https://github.com/docker/docker.github.io/blob/master/LICENSE
+
+mongo https://github.com/mongodb/mongo/blob/master/LICENSE-Community.txt
+
+docker-node https://github.com/nodejs/docker-node https://github.com/nodejs/docker-node/blob/main/LICENSE
+
+nodejs https://github.com/nodejs/node/blob/master/LICENSE

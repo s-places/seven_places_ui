@@ -1,0 +1,54 @@
+@import "~bootstrap/scss/bootstrap";
+$rem: 0.5rem;
+$color: #9a9c9e;
+//styles for 'floating button'
+#scroll-to-top {
+  position: fixed;
+  z-index: 999;
+}
+
+body {
+  //main background color and Google's fonts
+  background-color: #212529;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  .offcanvas-body {
+    overflow-y: hidden;
+  }
+  //styles for carousel and text in caption of images
+  .carousel-caption {
+    text-align: center;
+    box-shadow: 1px 1px 1px #212529;
+    text-shadow: 1px 1px 1px #212529;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 0.2rem;
+  }
+  .c-primary {
+    font-size: 2rem;
+  }
+  .c-secondary {
+    font-size: 1.2rem;
+  }
+  .carousel {
+    height: 50%;
+    width: 100%;
+  }
+  img {
+    max-width: 100%;
+    max-height: auto;
+  }
+  //styles for main text content
+  .card {
+    text-align: justify;
+    border-radius: 0;
+    border-style: hidden;
+  }
+}
+
+//style for navigation menu
+.nav-link {
+  font-size: 1.4rem;
+  &:hover {
+    color: white !important;
+  }
+}
